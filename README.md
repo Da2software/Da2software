@@ -1,9 +1,7 @@
 
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=da2software&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
+<p align="end">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDa2software%2FDa2software"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDa2software%2FDa2software&countColor=%23697689" /></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Pedro Uh</h1>
 <p align="center">
