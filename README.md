@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    Experienced **Full Stack Developer** with a rich background in crafting robust solutions across the software development lifecycle, with 5+ years in web development. Specializing in building scalable solutions with various stacks. Known for optimizing code, and enhancing database performance.
+    Experienced **Full Stack Developer** with a rich background in crafting robust solutions across the software development lifecycle, with 6 years of experience, specializing in building scalable solutions with various stacks. Known for optimizing code, and enhancing database performance.
     <br>
     <br>
   </samp>
